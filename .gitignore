@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/dao/build/
+/dao/build/classes/java/main/
+/web/build/
+/web/build/classes/java/main/

@@ -1,0 +1,5 @@
+rootProject.name = 'unt'
+
+include 'web'
+include 'dao'
+
